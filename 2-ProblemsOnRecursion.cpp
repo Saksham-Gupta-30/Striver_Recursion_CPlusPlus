@@ -84,6 +84,7 @@ void f(int i, int N) {
 }
 
 int main() {
+	
 	int N;
 	cin >> N;
 	f(1, N);
